@@ -1,4 +1,3 @@
 - I’m @Tarek-mahmoud
-- I’m interested in cybersecurity
-- 💞️ I’m looking to collaborate on G4S
+- I’m interested in CS
 - 📫 How to reach me https://www.linkedin.com/in/tarek-alashmony-1bbb31222
