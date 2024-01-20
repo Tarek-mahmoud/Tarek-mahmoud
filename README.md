@@ -1,5 +1,16 @@
 <h1 align="left">Hi 👋, I'm Tarek Mahmoud</h1>
 <h3 align="left">A passionate Backend developer</h3>
+<p align="left">
+  <ul>
+    <li>🌍 I'm From Egypt 🇪🇬</li>
+    <li🧑‍🎓 I'm Learning Computer Science From OSSU</li>
+    <li>🌱 I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021 & 2022.</li>
+    <li>🖥️ I'm currently learning Java spring</li>
+    <li>⚡ I enjoy Problem Solving</li>
+    <li>🤝 I'm open to collaborating on interesting projects as a developer</li>
+  </ul>
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
