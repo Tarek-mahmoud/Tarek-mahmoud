@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tarek Mahmoud</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="left">Hi 👋, I'm Tarek Mahmoud</h1>
+<h3 align="left">A passionate Backend developer</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
