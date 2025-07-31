@@ -3,9 +3,9 @@
 <p align="left">
   <ul>
     <li>🌍 I'm From Egypt 🇪🇬</li>
-    <li🧑‍🎓 I'm Learning Computer Science From OSSU</li>
+    <li🎓 I Graduated from faculty of Computer and information </li>
     <li>🌱 I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021 & 2022.</li>
-    <li>🖥️ I'm experienced in c++ and java programing</li>
+    <li>🖥️ I'm experienced in c++, java and python programing </li>
     <li>🖥️ I'm currently working as a Java spring developer</li>
     <li>⚡ I enjoy Problem Solving</li>
     <li>🤝 I'm open to collaborating on interesting projects as a developer</li>
